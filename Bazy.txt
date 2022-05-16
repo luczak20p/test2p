@@ -1,0 +1,4 @@
+Jeśli chcesz 6 to:
+trigger w sql
+procedury składowane w sql
+transakcje w sql
